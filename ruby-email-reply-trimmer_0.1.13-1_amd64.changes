@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Sat, 27 May 2023 16:49:40 -0300
+Source: ruby-email-reply-trimmer
+Binary: ruby-email-reply-trimmer
+Architecture: all
+Version: 0.1.13-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Debian Ruby Team <pkg-ruby-extras-maintainers@lists.alioth.debian.org>
+Changed-By: Lucas Soares Rodrigues <soares_lsr@hotmail.com>
+Description:
+ ruby-email-reply-trimmer - Library to trim replies from plain text email
+Changes:
+ ruby-email-reply-trimmer (0.1.13-1) UNRELEASED; urgency=medium
+ .
+   [ Debian Janitor ]
+   * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository-Browse.
+   * Update standards version to 4.6.1, no changes needed.
+ .
+   [ soaresrlucas ]
+   * New upstream version 0.1.13
+Checksums-Sha1:
+ b17d81afad60fc024c1b6e57984ac98f6a6095c4 8872 ruby-email-reply-trimmer_0.1.13-1_all.deb
+ 52bc77314d435c8f84011c04a5657b693c3f1bdf 8034 ruby-email-reply-trimmer_0.1.13-1_amd64.buildinfo
+Checksums-Sha256:
+ a6afbcbbd86862d4449fadab67db7817e10e55f2f8b2d7ee7c74392b4fd25116 8872 ruby-email-reply-trimmer_0.1.13-1_all.deb
+ f9397888474ad5b97e2ed4390556ad5c3a99446f0aabbef8bc913370e2f052ed 8034 ruby-email-reply-trimmer_0.1.13-1_amd64.buildinfo
+Files:
+ 8097d3685485cb8a5ce22f8e51e03ecb 8872 ruby optional ruby-email-reply-trimmer_0.1.13-1_all.deb
+ bdcf740f35737e78f7cfe22dca61886a 8034 ruby optional ruby-email-reply-trimmer_0.1.13-1_amd64.buildinfo

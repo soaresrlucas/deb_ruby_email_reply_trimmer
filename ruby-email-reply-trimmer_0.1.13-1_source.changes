@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sat, 27 May 2023 16:49:40 -0300
+Source: ruby-email-reply-trimmer
+Architecture: source
+Version: 0.1.13-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Debian Ruby Team <pkg-ruby-extras-maintainers@lists.alioth.debian.org>
+Changed-By: Lucas Soares Rodrigues <soares_lsr@hotmail.com>
+Changes:
+ ruby-email-reply-trimmer (0.1.13-1) UNRELEASED; urgency=medium
+ .
+   [ Debian Janitor ]
+   * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository-Browse.
+   * Update standards version to 4.6.1, no changes needed.
+ .
+   [ soaresrlucas ]
+   * New upstream version 0.1.13
+Checksums-Sha1:
+ a6a995183abcaa549f8b38a09b2322b98f0e58f3 1291 ruby-email-reply-trimmer_0.1.13-1.dsc
+ 566b8f665651e852bfdb51d72b1886e60385ae72 42535 ruby-email-reply-trimmer_0.1.13.orig.tar.gz
+ f234455b8db12b39fb4f55c3ce511543e50a7137 2596 ruby-email-reply-trimmer_0.1.13-1.debian.tar.xz
+ 52bc77314d435c8f84011c04a5657b693c3f1bdf 8034 ruby-email-reply-trimmer_0.1.13-1_amd64.buildinfo
+Checksums-Sha256:
+ bdc2a3ac0dbb9c33934302075f6b48abae659bd2a81de9b9f669c680b461ad24 1291 ruby-email-reply-trimmer_0.1.13-1.dsc
+ 8c5c5af2bd6735e25aeb8fb066512d602d8c33574d243c1de901bf987bb67028 42535 ruby-email-reply-trimmer_0.1.13.orig.tar.gz
+ d433d6b07b4d73a1a4a272e2ad7cd6acc5b93ae3df7d0de37ba190ade290ebb7 2596 ruby-email-reply-trimmer_0.1.13-1.debian.tar.xz
+ f9397888474ad5b97e2ed4390556ad5c3a99446f0aabbef8bc913370e2f052ed 8034 ruby-email-reply-trimmer_0.1.13-1_amd64.buildinfo
+Files:
+ 2f9b2ebc8cdaaf6ed45d76fdeae5a4e2 1291 ruby optional ruby-email-reply-trimmer_0.1.13-1.dsc
+ 7ea107936270efae5bec916e48aa3f9c 42535 ruby optional ruby-email-reply-trimmer_0.1.13.orig.tar.gz
+ b02398baad2b52bd6676c8ddfc2e9b29 2596 ruby optional ruby-email-reply-trimmer_0.1.13-1.debian.tar.xz
+ bdcf740f35737e78f7cfe22dca61886a 8034 ruby optional ruby-email-reply-trimmer_0.1.13-1_amd64.buildinfo
